@@ -1,8 +1,6 @@
 # Olá! Aqui é a Heloísa 👋
-<div>
-🎓Graduanda do Curso de Ciência da Computação na Universidade Federal do Maranhão (UFMA).  
-<img align="right" width="100" height="100" src="https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif">
-</div>
+
+🎓Graduanda do Curso de Ciência da Computação na Universidade Federal do Maranhão (UFMA).  <img align="right" width="100" height="100" src="https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif">
 
 ## Stats 💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
