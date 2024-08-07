@@ -1,7 +1,10 @@
 # Olá! Aqui é a Heloísa 👋
 
-🎓Graduanda do Curso de Ciência da Computação na Universidade Federal do Maranhão (UFMA).  <img align="right" width="100" height="100" src="https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif">
+🎓Graduanda do Curso de Ciência da Computação na Universidade Federal do Maranhão (UFMA). 
+<img align="right" width="100" height="100" src="https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif">
 
+
+&nbsp;
 ## Stats 💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heloisajansen&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
